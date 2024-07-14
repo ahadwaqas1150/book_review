@@ -80,7 +80,70 @@ export default {
         "https://images-na.ssl-images-amazon.com/images/I/81TRW60ZhDL.jpg",3],
         ["Brave New World", "Aldous Huxley", "A dystopian novel exploring a future society where humanity is controlled through technology and conditioning.",
         "Aldous Huxley's 'Brave New World' presents a chilling vision of a future society where individuality and freedom are sacrificed for stability and happiness. In this dystopian world, humans are engineered and conditioned to fit into predetermined roles, and the use of a drug called soma ensures constant contentment. The novel's protagonist, Bernard Marx, begins to question the value of this seemingly perfect society. Huxley's incisive critique of consumerism, technology, and totalitarianism remains relevant, offering a stark warning about the potential consequences of sacrificing human dignity for the sake of progress.",
-        "https://images-na.ssl-images-amazon.com/images/I/81ayUsETeML.jpg",2]
+        "https://images-na.ssl-images-amazon.com/images/I/81ayUsETeML.jpg",2],
+        ["Moby-Dick", "Herman Melville", "A novel about the obsessive quest of Captain Ahab for revenge against Moby Dick, the white whale that crippled him.",
+    "Herman Melville's 'Moby-Dick' is an epic tale of obsession and revenge, set against the backdrop of the whaling industry in the 19th century. The novel's protagonist, Captain Ahab, is consumed by his desire to hunt down the great white whale, Moby Dick. Melville's richly detailed prose and philosophical reflections on fate, humanity, and nature make 'Moby-Dick' a profound and challenging read. The novel's complex characters and symbolic depth have cemented its status as one of the greatest works of American literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/81MZcmiT8LL.jpg",3],
+
+    ["War and Peace", "Leo Tolstoy", "A novel that intertwines the lives of several families against the backdrop of the Napoleonic Wars.",
+    "Leo Tolstoy's 'War and Peace' is a monumental epic that intertwines the lives of several aristocratic families against the backdrop of the Napoleonic Wars. The novel explores themes of fate, free will, and the sweep of history, offering a rich tapestry of characters and events. Tolstoy's masterful storytelling and deep philosophical insights make 'War and Peace' a profound and enduring work of literature, celebrated for its detailed portrayal of Russian society and its exploration of the human condition.",
+    "https://images-na.ssl-images-amazon.com/images/I/91lz8QzXQML.jpg",4],
+
+    ["Crime and Punishment", "Fyodor Dostoevsky", "A novel that explores the moral dilemmas of a young man who commits a murder and struggles with guilt and redemption.",
+    "Fyodor Dostoevsky's 'Crime and Punishment' is a gripping psychological drama that delves into the mind of Raskolnikov, a young man who commits a murder and then grapples with intense guilt and paranoia. The novel explores themes of morality, redemption, and the nature of punishment. Dostoevsky's profound exploration of the human psyche and his portrayal of Raskolnikov's internal conflict make this novel a timeless study of crime, conscience, and the search for meaning.",
+    "https://images-na.ssl-images-amazon.com/images/I/81T7ZKj4wbL.jpg",5],
+
+    ["One Hundred Years of Solitude", "Gabriel Garcia Marquez", "A magical realist novel that tells the multi-generational story of the Buendía family.",
+    "Gabriel Garcia Marquez's 'One Hundred Years of Solitude' is a landmark of magical realism, chronicling the multi-generational saga of the Buendía family in the fictional town of Macondo. The novel blends the fantastical with the ordinary, exploring themes of love, power, and destiny. Marquez's lyrical prose and vivid imagination create a richly textured narrative that is both captivating and thought-provoking. The novel's exploration of human experience and its innovative narrative style have earned it a place among the greatest works of world literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/91oqT5y0x7L.jpg",4],
+
+    ["The Brothers Karamazov", "Fyodor Dostoevsky", "A novel that explores the spiritual and moral struggles of three brothers in 19th-century Russia.",
+    "Fyodor Dostoevsky's 'The Brothers Karamazov' is a profound exploration of faith, doubt, and the nature of good and evil. The novel centers on the lives of three brothers—Alyosha, Ivan, and Dmitri Karamazov—each embodying different aspects of the human condition. Dostoevsky's masterful narrative delves into their spiritual and moral struggles, set against the backdrop of a family tragedy. The novel's philosophical depth and psychological complexity make it a monumental achievement in literature, offering a timeless reflection on the human soul.",
+    "https://images-na.ssl-images-amazon.com/images/I/91Lq5U8X3nL.jpg",5],
+
+    ["Wuthering Heights", "Emily Bronte", "A novel about the intense and tragic love between Catherine Earnshaw and Heathcliff on the Yorkshire moors.",
+    "Emily Bronte's 'Wuthering Heights' is a dark and passionate tale of love, revenge, and the destructive power of obsession. Set on the desolate Yorkshire moors, the novel follows the tumultuous relationship between Catherine Earnshaw and the brooding Heathcliff. Bronte's gothic narrative and deeply emotional storytelling create a haunting atmosphere that explores the depths of human emotion and the consequences of unchecked passion. 'Wuthering Heights' remains a powerful and unsettling masterpiece of English literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/91Px7lK5nBL.jpg",4],
+
+    ["Jane Eyre", "Charlotte Bronte", "A novel about the life and struggles of the orphaned Jane Eyre, including her love for Mr. Rochester.",
+    "Charlotte Bronte's 'Jane Eyre' is a pioneering work of feminist literature, chronicling the life and trials of the orphaned Jane Eyre. The novel follows Jane's journey from a harsh childhood to her role as governess at Thornfield Hall, where she falls in love with the enigmatic Mr. Rochester. Bronte's exploration of themes such as independence, morality, and social class, combined with her vivid characterizations and compelling narrative, make 'Jane Eyre' a timeless and inspiring story of resilience and self-discovery.",
+    "https://images-na.ssl-images-amazon.com/images/I/81xzJlbYYBL.jpg",5],
+
+    ["The Odyssey", "Homer", "An epic poem about the adventures of Odysseus as he tries to return home after the Trojan War.",
+    "Homer's 'The Odyssey' is one of the greatest epic poems of ancient literature, recounting the adventures of the Greek hero Odysseus as he journeys home after the Trojan War. The narrative is rich with fantastical elements, including encounters with mythical creatures, gods, and epic battles. The themes of heroism, loyalty, and perseverance are timeless, and Homer's masterful storytelling and poetic prowess have made 'The Odyssey' a foundational work in the Western literary canon.",
+    "https://images-na.ssl-images-amazon.com/images/I/71zGnx0bgTL.jpg",4],
+
+    ["Don Quixote", "Miguel de Cervantes", "A novel about an aging knight who becomes delusional and sets out on misguided adventures.",
+    "Miguel de Cervantes' 'Don Quixote' is a groundbreaking work of literature that satirizes the chivalric romances popular in its time. The novel follows the misadventures of an aging knight, Don Quixote, who becomes delusional and sets out to revive chivalry, accompanied by his loyal squire, Sancho Panza. Cervantes' witty and insightful narrative explores themes of reality versus illusion, the nature of heroism, and the power of idealism. 'Don Quixote' is celebrated for its innovative structure, rich characterizations, and its enduring influence on Western literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/81-xVuPL00L.jpg",4],
+
+    ["The Grapes of Wrath", "John Steinbeck", "A novel about the hardships faced by the Joad family during the Great Depression.",
+    "John Steinbeck's 'The Grapes of Wrath' is a powerful and moving depiction of the struggles faced by the Joad family during the Great Depression. Forced to leave their Oklahoma farm, the Joads journey west to California in search of a better life. Steinbeck's poignant portrayal of their hardships and his critique of social injustice and inequality resonate deeply. The novel's rich narrative and compelling characters highlight the resilience of the human spirit and the enduring fight for dignity and justice.",
+    "https://images-na.ssl-images-amazon.com/images/I/91NE37Zs-BL.jpg",5],
+
+    ["Ulysses", "James Joyce", "A novel that chronicles the experiences of Leopold Bloom in Dublin over the course of a single day.",
+    "James Joyce's 'Ulysses' is a landmark modernist novel that chronicles the experiences of Leopold Bloom in Dublin over the course of a single day, June 16, 1904. The novel's stream-of-consciousness technique, richly detailed narrative, and complex structure make it a challenging yet rewarding read. Joyce's exploration of themes such as identity, consciousness, and the mundane aspects of daily life offers a profound and innovative reflection on the human experience. 'Ulysses' is celebrated for its linguistic creativity and its impact on the development of modern literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/81M99VoDAxL.jpg",3],
+
+    ["Anna Karenina", "Leo Tolstoy", "A novel about the tragic love affair between Anna Karenina and Count Vronsky, set against the backdrop of Russian society.",
+    "Leo Tolstoy's 'Anna Karenina' is a sweeping and tragic tale of love, betrayal, and societal pressures. The novel centers on the ill-fated affair between the beautiful Anna Karenina and the dashing Count Vronsky, set against the backdrop of 19th-century Russian society. Tolstoy's rich characterizations and intricate exploration of themes such as love, fidelity, and the conflict between personal desires and social norms make 'Anna Karenina' a profound and timeless work of literature.",
+    "https://images-na.ssl-images-amazon.com/images/I/81IYVJolTaL.jpg",5],
+
+    ["The Picture of Dorian Gray", "Oscar Wilde", "A novel about a man who remains young while his portrait ages, reflecting his moral corruption.",
+    "Oscar Wilde's 'The Picture of Dorian Gray' is a gothic novel that explores themes of vanity, moral corruption, and the nature of beauty. The story follows Dorian Gray, a handsome young man who remains youthful while his portrait ages, reflecting the consequences of his hedonistic and morally corrupt lifestyle. Wilde's sharp wit, eloquent prose, and provocative exploration of the duality of human nature make 'The Picture of Dorian Gray' a compelling and enduring classic.",
+    "https://images-na.ssl-images-amazon.com/images/I/81DDjOIfmyL.jpg",4],
+
+    ["The Sun Also Rises", "Ernest Hemingway", "A novel about a group of expatriates in the 1920s who travel from Paris to Spain to watch the running of the bulls.",
+    "Ernest Hemingway's 'The Sun Also Rises' captures the disillusionment and restlessness of the Lost Generation in the post-World War I era. The novel follows a group of expatriates who travel from Paris to Spain to watch the running of the bulls in Pamplona. Hemingway's spare, evocative prose and his exploration of themes such as aimlessness, love, and the search for meaning create a poignant and timeless portrait of a generation seeking purpose in a fractured world.",
+    "https://images-na.ssl-images-amazon.com/images/I/81-q+YQWg1L.jpg",4],
+
+    ["Madame Bovary", "Gustave Flaubert", "A novel about a doctor's wife who has adulterous affairs and lives beyond her means to escape the banalities of provincial life.",
+    "Gustave Flaubert's 'Madame Bovary' is a seminal work of realism that explores the life of Emma Bovary, a doctor's wife who seeks to escape the dullness of provincial life through adulterous affairs and extravagant living. Flaubert's meticulous prose and his unflinching portrayal of Emma's desires and disillusionments offer a profound critique of romantic idealism and the constraints of social expectations. 'Madame Bovary' remains a powerful and incisive examination of the human condition and the complexities of desire and fulfillment.",
+    "https://images-na.ssl-images-amazon.com/images/I/91tbM5oSm8L.jpg",4],
+
+    ["The Count of Monte Cristo", "Alexandre Dumas", "A novel about a man wrongfully imprisoned who escapes and seeks revenge on those who betrayed him.",
+    "Alexandre Dumas' 'The Count of Monte Cristo' is a thrilling tale of betrayal, vengeance, and redemption. The novel follows Edmond Dantès, who is wrongfully imprisoned but escapes and transforms himself into the enigmatic Count of Monte Cristo. Dantès meticulously plots revenge against those who betrayed him, weaving a complex web of intrigue and retribution. Dumas' masterful storytelling, vibrant characters, and intricate plot make 'The Count of Monte Cristo' a timeless adventure and a classic exploration of justice and revenge.",
+    "https://images-na.ssl-images-amazon.com/images/I/91xsiGMGl8L.jpg",4]
     ],
     NonFiction: [
         ["Sapiens: A Brief History of Humankind", "Yuval Noah Harari", "A book that explores the history of the human species from the emergence of Homo sapiens to the present.",
